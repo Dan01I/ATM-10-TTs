@@ -1,6 +1,7 @@
 {
   "schema_version": 1,
   "manifest_version": "1.0.0",
+  "released_at": "2026-07-19T00:00:00Z",
   "id": "atm10-tts",
   "name": "ATM 10 To The Sky",
   "version": "1.0.0",
