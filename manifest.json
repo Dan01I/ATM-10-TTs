@@ -1,0 +1,19 @@
+{
+  "_comment": "Arquivo de servidores do seu launcher",
+  "_doc": "Configuracao oficial para o seu modpack ATM 10 TTS",
+
+  "instances": [
+    {
+      "id": "atm10-tts",
+      "display_name": "ATM 10 To The Sky",
+      "description": "Servidor Oficial — Modpack Completo",
+      "manifest_url": "https://raw.githubusercontent.com/Dan01I/ATM-10-TTs/main/manifest.json",
+      "manifest_provider": "http",
+      "manifest_public_key": "",
+      "color": "#7c3aed",
+      "icon": "",
+      "server_address": "gaming-11.bedhosting.com.br",
+      "server_port": 25290
+    }
+  ]
+}
